@@ -12,4 +12,4 @@ Bu proje, İstanbul Sağlık ve Teknoloji Üniversitesi'ndeki Yazılım Mühendi
 ## Kullanılan Teknolojiler
 * **Diller:** Python.
 * **Kütüphaneler:** OpenCV, PyQt5, Matplotlib, ONNX, FFmpeg.
-***Modeller:** YOLO (Derin Öğrenme).
+* **Modeller:** YOLO (Derin Öğrenme).
